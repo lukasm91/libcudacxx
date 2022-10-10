@@ -144,6 +144,6 @@ __global__ void example_kernel(char* dst, char* src) {
 [_ThreadGroup_]: ./thread_group.md
 
 [`cuda::std::size_t`]: https://en.cppreference.com/w/c/types/size_t
-[`cuda::aligned_size_t`]: ./shapes/aligned_size_t.md
+[`cuda::aligned_size_t`]: ../shapes/aligned_size_t
 
-[`cuda::pipeline::quit`]: ./pipelines/pipeline/quit.md
+[`cuda::pipeline::quit`]: ../synchronization_primitives/pipeline/quit

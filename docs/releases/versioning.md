@@ -229,9 +229,9 @@ The deprecation period will depend on the impact of the change, but will usually
   last three to six months.
 
 
-[development model section]: ../contributing/development_model.md
-[releases section]: ./releases.md
-[changelog]: ./changelog.md
+[development model section]: ../contributing/development_model
+[releases section]: ../releases
+[changelog]: changelog
 
 [semantic versioning]: https://semver.org
 [live at head]: https://www.youtube.com/watch?v=tISy7EJQPzI&t=1032s
